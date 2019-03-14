@@ -7,3 +7,6 @@ The session cannot be destroyed anymore and will persist even after calling ```r
 In order to run everything first install the dependencies by switching into the ```backend/``` and ```frontend/``` folders.
 There run ```npm install``` afterwards you can start them both my running ```npm start``` in the respective directory.
 No database is required to run the server.
+
+### Node Version
+8.11.2
